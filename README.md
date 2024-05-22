@@ -35,7 +35,7 @@ To run the Meal Planner application, follow these steps:
 2. Go to the project directory
 
 ```bash
-  cd my-project
+  cd streamlit-meal-planner/
 ```
 
 3. Install dependencies
