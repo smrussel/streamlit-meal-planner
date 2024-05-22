@@ -29,7 +29,7 @@ To run the Meal Planner application, follow these steps:
 1. Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/smrussel/streamlit-meal-planner.git
 ```
 
 2. Go to the project directory
